@@ -1,0 +1,13 @@
+git config --global user.name "Saeid"
+git config --global user.email "saeid@yahoo.com"
+go to folder ------> git init
+touch test.cpp -----> creat a file
+git status
+git add "test.cpp"
+git checkout -- .
+-----------------------
+git clone ......
+git remote -v
+-----------------------
+git commit -m "message"
+git push -f origin master
